@@ -1,4 +1,6 @@
-.foot .foot__heading {
-  font-size: 20px;
+@media screen and (max-width: 479px) {
+  .foot .foot__heading {
+    font-size: 20px;
+  }
 }
 /*# sourceMappingURL=footer-header-mobile.css.map */

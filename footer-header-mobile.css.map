@@ -1,6 +1,6 @@
 {
     "version": 3,
-    "mappings": "AACA,AACE,KADG,CACH,cAAc,CAAC;EACb,SAAS,EAAE,IAAI;CAAG",
+    "mappings": "AAAA,MAAM,CAAC,MAAM,MAAM,SAAS,EAAE,KAAK;EACjC,AACE,KADG,CACH,cAAc,CAAC;IACb,SAAS,EAAE,IAAI;GAAG",
     "sources": [
         "footer-header-mobile.sass"
     ],
